@@ -1,0 +1,6 @@
+{
+  "name": "Shopify Channel Sync",
+  "description": "Audita y corrige masivamente la disponibilidad de productos en Sales Channels de Shopify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
